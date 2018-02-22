@@ -1,0 +1,1 @@
+require "ridgepole/mysql/partition"
